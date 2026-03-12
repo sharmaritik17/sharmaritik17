@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 Currently crafting Java + React FullStack magic ✨ <br>
+🔭 Currently crafting Backend + AI FullStack magic ✨ <br>
 👯 Seeking collaborators to innovate and build exciting new products <br>
-🤝 Open to assistance with frontend UI design challenges <br>
+🤝 Open to assistance with Backend design challenges <br>
 🌱 Exploring the depths of backend architecture and diving into DevOps essentials <br>
 💬 Let's chat about Java, C++, databases, system internals, architecture, or anything software-related <br>
 ⚡ Fun fact: Fashion enthusiast who loves experimenting with new outfits 💃🕺
